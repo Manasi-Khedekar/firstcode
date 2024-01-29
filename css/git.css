@@ -1,0 +1,16 @@
+.container{
+    background-color:pink;
+    height:1300px;
+}
+.faq{
+    height:200px;
+}
+.img-thumbnail{
+    height:400px;
+}
+.img-thumbnail img{
+    width:350px;
+    height:370px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
